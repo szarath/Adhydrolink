@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Adhydro_link.Models
 {
+    //add more items for pages to login and change
     public enum MenuItemType
     {
         Browse,
